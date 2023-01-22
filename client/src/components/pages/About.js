@@ -1,6 +1,6 @@
 import React from "react";
 
-function Home() {
+function About() {
 	const link = "#";
 	const target = "_blank";
 
@@ -20,7 +20,7 @@ function Home() {
 				<b>Developed By</b>: Mulsew M
 				<p>
 					<a href={link} target={target}>
-						#
+					#
 					</a>
 				</p>
 			</p>
@@ -28,4 +28,4 @@ function Home() {
 	);
 }
 
-export default Home;
+export default About;
