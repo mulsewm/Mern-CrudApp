@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/common/Navbar";
 import Home from "./components/pages/Home";
-import Home from "./components/pages/About";
+import About from "./components/pages/About";
 import CrudAdd from "./components/cruds/CrudAdd";
 import CrudTable from "./components/cruds/CrudTable";
 import CrudListView from "./components/cruds/CrudListView";

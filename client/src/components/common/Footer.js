@@ -4,9 +4,9 @@ const Footer = () => {
 
 	return (
 		<div className="container">
-			Copyright © <small>{new Date().getFullYear()}</small> Henok R. Bedassa{" "}
+			Copyright © <small>{new Date().getFullYear()}</small> Mulsew M{" "}
 			<a href={link} target={target}>
-				henok.us
+				MulsewM
 			</a>
 		</div>
 	);

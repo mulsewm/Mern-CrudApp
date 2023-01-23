@@ -5,7 +5,7 @@ const Navbar = () => {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div className="container">
-				<NavLink className="navbar-brand" hrefLang="https://henok.us" to="/">
+				<NavLink className="navbar-brand" hrefLang="#" to="/">
 					Henok
 				</NavLink>
 				<button
